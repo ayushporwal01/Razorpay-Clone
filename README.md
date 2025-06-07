@@ -1,6 +1,6 @@
 ## Razorpay Clone 💳
 
-It's a website that has been designed to mimic the the popular payment gateway platform, Razorpay.
+It's a website that has been designed to mimic the popular payment gateway platform, Razorpay.
 
 - **This Site is Fully Responsive**
 <br>
